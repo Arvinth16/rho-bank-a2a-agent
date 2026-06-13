@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# Local dev overrides — has host-specific ADC credential paths, not for submission
+docker-compose.override.yml
+
+.DS_Store
+.env.example
